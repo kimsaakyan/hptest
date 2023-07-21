@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/kimsaakyan/hptest.git/static/css/main.aeaf2234.css",
+    "main.js": "/kimsaakyan/hptest.git/static/js/main.ef48f0d1.js",
+    "static/js/787.06663485.chunk.js": "/kimsaakyan/hptest.git/static/js/787.06663485.chunk.js",
+    "static/media/bottom-background.png": "/kimsaakyan/hptest.git/static/media/bottom-background.fd430d2c5e840f47500f.png",
+    "static/media/img-for-myFavouritePage.png": "/kimsaakyan/hptest.git/static/media/img-for-myFavouritePage.9888c192c229d8f518f2.png",
+    "static/media/headphone-banner.jpg": "/kimsaakyan/hptest.git/static/media/headphone-banner.60cee02fddaa76306671.jpg",
+    "static/media/portrait-asian-girl.jpg": "/kimsaakyan/hptest.git/static/media/portrait-asian-girl.34f83f8504ce839d2811.jpg",
+    "static/media/dreamy-girl.jpg": "/kimsaakyan/hptest.git/static/media/dreamy-girl.77c171f806c7b1db132b.jpg",
+    "static/media/headphone3.jpg": "/kimsaakyan/hptest.git/static/media/headphone3.53fbcf72e8167ae22b15.jpg",
+    "static/media/headphone5.jpg": "/kimsaakyan/hptest.git/static/media/headphone5.3810979d45ed6db55150.jpg",
+    "static/media/headphone6.jpg": "/kimsaakyan/hptest.git/static/media/headphone6.e27e3ed9d52654b999f4.jpg",
+    "static/media/headphone2.jpg": "/kimsaakyan/hptest.git/static/media/headphone2.832d8862f891749fa70a.jpg",
+    "static/media/african-girl.jpg": "/kimsaakyan/hptest.git/static/media/african-girl.f1bb53c665693a82c930.jpg",
+    "static/media/headphones-keyboard.jpg": "/kimsaakyan/hptest.git/static/media/headphones-keyboard.6a0567da986f53ffa046.jpg",
+    "static/media/man.jpg": "/kimsaakyan/hptest.git/static/media/man.1d85f0a813580fe79795.jpg",
+    "static/media/headphone4.jpg": "/kimsaakyan/hptest.git/static/media/headphone4.6966a7991ea4fc37aa7d.jpg",
+    "static/media/headphone1.jpg": "/kimsaakyan/hptest.git/static/media/headphone1.1bfc6a30134f3626cb2b.jpg",
+    "static/media/headphoneLogo.png": "/kimsaakyan/hptest.git/static/media/headphoneLogo.31c193b110a22e808a94.png",
+    "static/media/logo.svg": "/kimsaakyan/hptest.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/kimsaakyan/hptest.git/index.html",
+    "main.aeaf2234.css.map": "/kimsaakyan/hptest.git/static/css/main.aeaf2234.css.map",
+    "main.ef48f0d1.js.map": "/kimsaakyan/hptest.git/static/js/main.ef48f0d1.js.map",
+    "787.06663485.chunk.js.map": "/kimsaakyan/hptest.git/static/js/787.06663485.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aeaf2234.css",
+    "static/js/main.ef48f0d1.js"
+  ]
+}
