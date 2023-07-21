@@ -1,6 +1,6 @@
 {
 	"name": "headphones-store-app",
-	"homepage": "https://kimsaakyan.github.io/hptest",
+	"homepage": "https://github.com/kimsaakyan/hptest.git",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
